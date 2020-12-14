@@ -1,6 +1,9 @@
-# Base16 ConEmu
+<div align="center">
+    <h1 align="center">base16-conemu</h1>
+</div>
 
-This is a [``template``](https://github.com/chriskempson/base16-templates-source) for base16 which supports [ConEmu](https://conemu.github.io/)
+This is a [`template`](https://github.com/chriskempson/base16-templates-source)
+for base16 which supports [ConEmu](https://conemu.github.io/)
 
 See the [Base16 repository](https://github.com/chriskempson/base16) for more information.
 

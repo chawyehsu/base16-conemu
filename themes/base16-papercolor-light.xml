@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
     Base16 PaperColor Light
-    Template: Chris Kempson, Scheme: Jon Leopard (http:&#x2F;&#x2F;github.com&#x2F;jonleopard) based on PaperColor Theme (https:&#x2F;&#x2F;github.com&#x2F;NLKNguyen&#x2F;papercolor-theme)
+    Template: Chris Kempson, Scheme: Jon Leopard (http://github.com/jonleopard) based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
     semanticClass: theme.base16.papercolor-light
 -->
 <key name="Palette1">
@@ -19,11 +19,11 @@
     <value name="ColorTable04" type="dword" data="00bcbcbc"/>
     <value name="ColorTable05" type="dword" data="00af5f00"/>
     <value name="ColorTable06" type="dword" data="008700d7"/>
-    <value name="ColorTable07" type="dword" data="00444444"/>
+    <value name="ColorTable07" type="dword" data="00878787"/>
     <value name="ColorTable08" type="dword" data="000000af"/>
     <value name="ColorTable09" type="dword" data="00af8700"/>
     <value name="ColorTable10" type="dword" data="00008700"/>
-    <value name="ColorTable11" type="dword" data="00878787"/>
+    <value name="ColorTable11" type="dword" data="00444444"/>
     <value name="ColorTable12" type="dword" data="000000d7"/>
     <value name="ColorTable13" type="dword" data="00875f00"/>
     <value name="ColorTable14" type="dword" data="0000875f"/>

@@ -13,19 +13,19 @@
     <value name="PopTextColorIdx" type="hex" data="10"/>
     <value name="PopBackColorIdx" type="hex" data="10"/>
     <value name="ColorTable00" type="dword" data="0040342E"/>
-    <value name="ColorTable01" type="dword" data="008BCBEB"/>
-    <value name="ColorTable02" type="dword" data="006A61BF"/>
-    <value name="ColorTable03" type="dword" data="007087D0"/>
-    <value name="ColorTable04" type="dword" data="00D0C088"/>
-    <value name="ColorTable05" type="dword" data="008CBEA3"/>
-    <value name="ColorTable06" type="dword" data="00AC815E"/>
+    <value name="ColorTable01" type="dword" data="00C1A181"/>
+    <value name="ColorTable02" type="dword" data="008CBEA3"/>
+    <value name="ColorTable03" type="dword" data="00D0C088"/>
+    <value name="ColorTable04" type="dword" data="006A61BF"/>
+    <value name="ColorTable05" type="dword" data="00AD8EB4"/>
+    <value name="ColorTable06" type="dword" data="008BCBEB"/>
     <value name="ColorTable07" type="dword" data="00BBBC8F"/>
     <value name="ColorTable08" type="dword" data="0052423B"/>
     <value name="ColorTable09" type="dword" data="00E9DED8"/>
     <value name="ColorTable10" type="dword" data="005E4C43"/>
     <value name="ColorTable11" type="dword" data="00F0E9E5"/>
-    <value name="ColorTable12" type="dword" data="00C1A181"/>
-    <value name="ColorTable13" type="dword" data="00AD8EB4"/>
+    <value name="ColorTable12" type="dword" data="007087D0"/>
+    <value name="ColorTable13" type="dword" data="00AC815E"/>
     <value name="ColorTable14" type="dword" data="006A564C"/>
     <value name="ColorTable15" type="dword" data="00F4EFEC"/>
     <value name="ColorTable16" type="dword" data="00000000"/>

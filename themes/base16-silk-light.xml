@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Base16 Silk Light
+    Template: Chris Kempson, Scheme: Gabriel Fontes (https://github.com/Misterio77)
+    semanticClass: theme.base16.silk-light
+-->
+<key name="Palette1">
+    <value name="Name" type="string" data="Base16 Silk Light"/>
+    <value name="ExtendColors" type="hex" data="00"/>
+    <value name="ExtendColorIdx" type="hex" data="0E"/>
+    <value name="TextColorIdx" type="hex" data="10"/>
+    <value name="BackColorIdx" type="hex" data="10"/>
+    <value name="PopTextColorIdx" type="hex" data="10"/>
+    <value name="PopBackColorIdx" type="hex" data="10"/>
+    <value name="ColorTable00" type="dword" data="00EFF1E9"/>
+    <value name="ColorTable01" type="dword" data="00C9AA39"/>
+    <value name="ColorTable02" type="dword" data="008CA36C"/>
+    <value name="ColorTable03" type="dword" data="00A29C32"/>
+    <value name="ColorTable04" type="dword" data="002E43CF"/>
+    <value name="ColorTable05" type="dword" data="0082656E"/>
+    <value name="ColorTable06" type="dword" data="0025ADCF"/>
+    <value name="ColorTable07" type="dword" data="00FFFAD2"/>
+    <value name="ColorTable08" type="dword" data="00D3D4CC"/>
+    <value name="ColorTable09" type="dword" data="005F5B4B"/>
+    <value name="ColorTable10" type="dword" data="00B6B790"/>
+    <value name="ColorTable11" type="dword" data="00565138"/>
+    <value name="ColorTable12" type="dword" data="00467FD2"/>
+    <value name="ColorTable13" type="dword" data="00695386"/>
+    <value name="ColorTable14" type="dword" data="007B785C"/>
+    <value name="ColorTable15" type="dword" data="00463c0e"/>
+    <value name="ColorTable16" type="dword" data="00000000"/>
+    <value name="ColorTable17" type="dword" data="00000000"/>
+    <value name="ColorTable18" type="dword" data="00000000"/>
+    <value name="ColorTable19" type="dword" data="00000000"/>
+    <value name="ColorTable20" type="dword" data="00000000"/>
+    <value name="ColorTable21" type="dword" data="00000000"/>
+    <value name="ColorTable22" type="dword" data="00000000"/>
+    <value name="ColorTable23" type="dword" data="00000000"/>
+    <value name="ColorTable24" type="dword" data="00000000"/>
+    <value name="ColorTable25" type="dword" data="00000000"/>
+    <value name="ColorTable26" type="dword" data="00000000"/>
+    <value name="ColorTable27" type="dword" data="00000000"/>
+    <value name="ColorTable28" type="dword" data="00000000"/>
+    <value name="ColorTable29" type="dword" data="00000000"/>
+    <value name="ColorTable30" type="dword" data="00000000"/>
+    <value name="ColorTable31" type="dword" data="00000000"/>
+</key>
