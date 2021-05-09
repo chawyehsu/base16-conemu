@@ -7,41 +7,41 @@
 <key name="Palette1">
     <value name="Name" type="string" data="Base16 IR Black"/>
     <value name="ExtendColors" type="hex" data="00"/>
-    <value name="ExtendColorIdx" type="hex" data="0e"/>
+    <value name="ExtendColorIdx" type="hex" data="0E"/>
     <value name="TextColorIdx" type="hex" data="10"/>
     <value name="BackColorIdx" type="hex" data="10"/>
     <value name="PopTextColorIdx" type="hex" data="10"/>
-    <value name="PopBackColorIdx" type="hex" data="10"/>    
+    <value name="PopBackColorIdx" type="hex" data="10"/>
     <value name="ColorTable00" type="dword" data="00000000"/>
     <value name="ColorTable01" type="dword" data="00fecb96"/>
     <value name="ColorTable02" type="dword" data="0060ffa8"/>
     <value name="ColorTable03" type="dword" data="00fec5c6"/>
-    <value name="ColorTable04" type="dword" data="0062c0e9"/>
+    <value name="ColorTable04" type="dword" data="00606cff"/>
     <value name="ColorTable05" type="dword" data="00fd73ff"/>
     <value name="ColorTable06" type="dword" data="00b6ffff"/>
-    <value name="ColorTable07" type="dword" data="00888f91"/>
-    <value name="ColorTable08" type="dword" data="00666c6c"/>
-    <value name="ColorTable09" type="dword" data="00fecb96"/>
-    <value name="ColorTable10" type="dword" data="0060ffa8"/>
-    <value name="ColorTable11" type="dword" data="00fec5c6"/>
-    <value name="ColorTable12" type="dword" data="00606cff"/>
+    <value name="ColorTable07" type="dword" data="00eefbfd"/>
+    <value name="ColorTable08" type="dword" data="00222424"/>
+    <value name="ColorTable09" type="dword" data="00888f91"/>
+    <value name="ColorTable10" type="dword" data="00444848"/>
+    <value name="ColorTable11" type="dword" data="00aab3b5"/>
+    <value name="ColorTable12" type="dword" data="0062c0e9"/>
     <value name="ColorTable13" type="dword" data="003d8ab1"/>
-    <value name="ColorTable14" type="dword" data="00b6ffff"/>
-    <value name="ColorTable15" type="dword" data="00eefbfd"/>
+    <value name="ColorTable14" type="dword" data="00666c6c"/>
+    <value name="ColorTable15" type="dword" data="00ccd7d9"/>
     <value name="ColorTable16" type="dword" data="00000000"/>
-    <value name="ColorTable17" type="dword" data="00fecb96"/>
-    <value name="ColorTable18" type="dword" data="0060ffa8"/>
-    <value name="ColorTable19" type="dword" data="00fec5c6"/>
-    <value name="ColorTable20" type="dword" data="0062c0e9"/>
-    <value name="ColorTable21" type="dword" data="00fd73ff"/>
-    <value name="ColorTable22" type="dword" data="00b6ffff"/>
-    <value name="ColorTable23" type="dword" data="00888f91"/>
-    <value name="ColorTable24" type="dword" data="00666c6c"/>
-    <value name="ColorTable25" type="dword" data="00fecb96"/>
-    <value name="ColorTable26" type="dword" data="0060ffa8"/>
-    <value name="ColorTable27" type="dword" data="00fec5c6"/>
-    <value name="ColorTable28" type="dword" data="00606cff"/>
-    <value name="ColorTable29" type="dword" data="003d8ab1"/>
-    <value name="ColorTable30" type="dword" data="00b6ffff"/>
-    <value name="ColorTable31" type="dword" data="00eefbfd"/>
+    <value name="ColorTable17" type="dword" data="00000000"/>
+    <value name="ColorTable18" type="dword" data="00000000"/>
+    <value name="ColorTable19" type="dword" data="00000000"/>
+    <value name="ColorTable20" type="dword" data="00000000"/>
+    <value name="ColorTable21" type="dword" data="00000000"/>
+    <value name="ColorTable22" type="dword" data="00000000"/>
+    <value name="ColorTable23" type="dword" data="00000000"/>
+    <value name="ColorTable24" type="dword" data="00000000"/>
+    <value name="ColorTable25" type="dword" data="00000000"/>
+    <value name="ColorTable26" type="dword" data="00000000"/>
+    <value name="ColorTable27" type="dword" data="00000000"/>
+    <value name="ColorTable28" type="dword" data="00000000"/>
+    <value name="ColorTable29" type="dword" data="00000000"/>
+    <value name="ColorTable30" type="dword" data="00000000"/>
+    <value name="ColorTable31" type="dword" data="00000000"/>
 </key>
