@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Please use https://github.com/tinted-theming/tinted-conemu
+
 <div align="center">
     <h1 align="center">base16-conemu</h1>
 </div>
